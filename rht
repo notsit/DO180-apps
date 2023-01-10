@@ -1,0 +1,8 @@
+RHT_VENUE=novello
+RHT_ROLE=workstation
+RHT_ENROLLMENT=1
+RHT_COURSE=do180
+RHT_TITLE="Red Hat OpenShift I - Containers & Kubernetes"
+RHT_VMTREE="ocp4.10/x86_64"
+RHT_NETWORK=yes
+RHT_DATE="2022060310"
